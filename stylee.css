@@ -204,8 +204,9 @@ button:hover{
 	position: relative;
 	overflow-x: hidden;
 	text-align: center;
-    border: 1px solid cyan;
+    border: 1px solid;
     transition: 1s;
+	box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
   
 }
 .card i{
